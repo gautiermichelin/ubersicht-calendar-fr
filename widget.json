@@ -1,6 +1,6 @@
 {
-	"name": "ubersicht-calendar",
-	"description": "An Übersicht calendar widget using ES6 syntax and css grid",
-	"author": "Kevin Knopp",
-	"email": "kknopper@gmail.com"
+	"name": "ubersicht-calendar-fr",
+	"description": "Calendrier pour Übersicht en français",
+	"author": "Kevin Knopp, trad. Gautier Michelin",
+	"email": "gm@ideesculture.com"
 }

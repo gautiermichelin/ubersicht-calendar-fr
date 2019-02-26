@@ -63,21 +63,21 @@ const today = css`
 // ============================================
 
 let months = [
-	"January",
-	"February",
-	"March",
-	"April",
-	"May",
-	"June",
-	"July",
-	"August",
-	"September",
-	"October",
-	"November",
-	"December"
+	"Janvier",
+	"Février",
+	"Mars",
+	"Avril",
+	"Mai",
+	"Juin",
+	"Juillet",
+	"Août",
+	"Septembre",
+	"Octobre",
+	"Novembre",
+	"Décembre"
 ];
 
-let sundayWeek = ["Su", "Mo", "Tu", "We", "Th", "Fr", "Sa"];
+let sundayWeek = ["Di", "Lu", "Ma", "Me", "Je", "Ve", "Sa"];
 let week;
 calendarStartDay > 0
 	? (week = reorderCalendar(calendarStartDay, sundayWeek))
